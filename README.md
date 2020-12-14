@@ -1,6 +1,6 @@
 # Decoding Activity
 
-In this activity Students will collaborate on a series of ‘decoding’ functions. When chained together the functions will ‘decode’ a message from a string of seeming gibberish. This lesson is intended to illustrate that functions take in a value and then return a value, granting the rest of the code access to the returned value only. This lesson will also introduce the concept of imports. 
+In this activity Students will collaborate on a series of ‘decoding’ functions. When chained together the functions will ‘decode’ a message from a string of seeming gibberish. This Activity is intended to illustrate that functions take in a value and then return a value, granting the rest of the code access to the returned value only. This Activity will also introduce the concept of imports. 
 
 Steps for the activity are as follows:
 
